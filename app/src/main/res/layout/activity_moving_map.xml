@@ -20,8 +20,8 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.priyanka.mapsnearbyplaces.MapsActivity"
-        android:layout_below="@+id/B_to"
+        tools:context="com.example.sahil.mappapp2.MovingMap"
+
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
