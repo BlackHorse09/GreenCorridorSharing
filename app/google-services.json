@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995573650511",
+    "firebase_url": "https://logikartinc-46586.firebaseio.com",
+    "project_id": "logikartinc-46586",
+    "storage_bucket": "logikartinc-46586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995573650511:android:54fa81fbc6e76233",
+        "android_client_info": {
+          "package_name": "com.example.sahil.mappapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995573650511-flhj6k6ht0nslis4neqenip0jhvhakum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.mappapp2",
+            "certificate_hash": "28091326234ba479f7d3f0dcbc16651b134ea9f4"
+          }
+        },
+        {
+          "client_id": "995573650511-iagvrmf9kjjiuqajdpb64nupi80jhb36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoeMhlrbZ9W3EVx508y1PU2w0ez_4xslw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995573650511-iagvrmf9kjjiuqajdpb64nupi80jhb36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
